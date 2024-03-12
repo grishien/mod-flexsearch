@@ -1,4 +1,4 @@
-module github.com/gethinode/mod-flexsearch
+module github.com/grishien/mod-flexsearch
 
 go 1.19
 

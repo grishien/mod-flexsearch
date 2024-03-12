@@ -1,7 +1,7 @@
 {
-  "name": "@gethinode/mod-flexsearch",
+  "name": "@grishien/mod-flexsearch",
   "version": "1.9.0",
-  "description": "A Hugo module to add full text search powered by FlexSearch to your Hinode site",
+  "description": "A Hugo module to add full text search powered by FlexSearch to your Hinode_ru site",
   "keywords": [
     "hugo",
     "module"
@@ -24,14 +24,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/gethinode/mod-flexsearch.git"
+    "url": "git+https://github.com/grishien/mod-flexsearch.git"
   },
   "author": "Mark Dumay",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/gethinode/hinode/issues"
+    "url": "https://github.com/grishien/hinode_ru/issues"
   },
-  "homepage": "https://gethinode.com",
+  "homepage": "https://grishien.com",
   "devDependencies": {
     "@semantic-release/exec": "^6.0.3",
     "@semantic-release/git": "^10.0.1",
